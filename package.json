@@ -1,0 +1,24 @@
+{
+  "name": "github-heidi-evan",
+  "version": "1.0.0",
+  "description": "github-heidi-evan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eharris128/github-heidi-evan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eharris128/github-heidi-evan/issues"
+  },
+  "homepage": "https://github.com/eharris128/github-heidi-evan#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "morgan": "^1.8.2"
+  }
+}
